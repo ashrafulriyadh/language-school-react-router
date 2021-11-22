@@ -1,0 +1,12 @@
+/* carousel styles */
+
+.carousel-item img {
+	height: 46vw;
+}
+.carousel-text-color {
+	color: #000000;
+}
+.carousel-text2-color {
+	color:black;
+	outline: blue;
+}
